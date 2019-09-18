@@ -4,7 +4,7 @@
 
 # Site
 title: Zengsl's blog
-subtitle:
+subtitle: Day Day Up
 description:
 keywords:
 author: Zengsl
@@ -111,7 +111,7 @@ encrypt:
 menu:
   主页: /
   spring: /tags/Spring/
-
+  
 # SubNav
 subnav:
   github: "https://github.com/zengsl"
