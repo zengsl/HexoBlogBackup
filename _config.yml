@@ -111,6 +111,9 @@ encrypt:
 menu:
   主页: /
   spring: /tags/Spring/
+  archives: /archives
+
+#avatar:  /assets/img/head.png
   
 # SubNav
 subnav:
